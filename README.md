@@ -1,2 +1,2 @@
-# Skygame_2dSandbox
+# SkyGame_2dSandbox
 Unity 2d Sandbox proyect

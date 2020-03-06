@@ -11,7 +11,7 @@
 /[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
+# !/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -58,54 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-**/.DS_Store
-**/.git
-**/.gitignore
-**/.gitmodules
-**/*.booproj
-**/*.pidb
-**/*.suo
-**/*.user
-**/*.userprefs
-**/*.unityproj
-**/*.dll
-**/*.exe
-**/*.pdf
-**/*.mid
-**/*.midi
-**/*.wav
-**/*.gif
-**/*.ico
-**/*.jpg
-**/*.jpeg
-**/*.png
-**/*.psd
-**/*.tga
-**/*.tif
-**/*.tiff
-**/*.3ds
-**/*.3DS
-**/*.fbx
-**/*.FBX
-**/*.lxo
-**/*.LXO
-**/*.ma
-**/*.MA
-**/*.obj
-**/*.OBJ
-**/*.asset
-**/*.cubemap
-**/*.flare
-**/*.mat
-**/*.meta
-**/*.prefab
-**/*.unity
-build/
-Build/
 Library/
 library/
 obj/
 Obj/
-ProjectSettings/
 temp/
 Temp/
